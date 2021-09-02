@@ -12,7 +12,7 @@ AUTHORISED_USERS = []
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
 INDEX_URL = "https://sathishsk.skmassking.workers.dev/"
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = false
+USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
 
 # dont edit below this >
