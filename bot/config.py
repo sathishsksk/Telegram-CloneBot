@@ -8,9 +8,9 @@ GDRIVE_FOLDER_ID = "1VPlEFMvn40upgZMGWbtqdG_YMOivnM-q"
 # Default folder id.
 OWNER_ID = 1126746691
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = []
+AUTHORISED_USERS = [1001577132355, -1001577132355]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = "https://sathishsk.skmassking.workers.dev/"
+INDEX_URL = "https://sathishsk.skmassking.workers.dev/0:/Mirror%20Bot"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
