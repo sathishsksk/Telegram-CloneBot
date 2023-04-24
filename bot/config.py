@@ -3,16 +3,16 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "1887868005:AAFqH31OjOo83Ajyw5o2xG4ZFiVVZXkyJRY"
-GDRIVE_FOLDER_ID = "1fJ3Qzs4cjhv3-1Uafvxnuaj76OoPF9lt"
+BOT_TOKEN = "1973750907:AAEtMflnE0x-2JaMRWCn6k52_cK-rYxtupA"
+GDRIVE_FOLDER_ID = "1Q38WivKoJ9V30p8SqO3fKyUh7g0yjKxN"
 # Default folder id.
 OWNER_ID = 1126746691
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = [1001577132355, -1001577132355]
+AUTHORISED_USERS = [-1001577132355]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = "https://sathishsk.skmassking.workers.dev/0:/Sathish%20Bot/"
+INDEX_URL = "https://sathishsk.eu.org/0:/Sathish%20Sk/"
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = False
+USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
 
 # dont edit below this >
